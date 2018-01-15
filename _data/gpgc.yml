@@ -7,5 +7,5 @@ label_color: 666666
 github_application:
   client_id: 726b03480efa0c61fe27
   code_authenticator: https://purpleblog.herokuapp.com/authenticate/
-  callback_url: https://gilbertfang.github.io/public/html/gpgc_redirect/index.html
+  callback_url: https://gilbertfang.github.io/public/html/gpgc_redirect.html
 enable_diagnostics: true
