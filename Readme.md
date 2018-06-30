@@ -1,1 +1,0 @@
-This is Gilbert Fang's Blog Pages.
